@@ -1,49 +1,49 @@
 {
     "iocs": [
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 0, 
             "value": "whattheforecast.williamking.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 1, 
             "value": "craigslist.yanflex.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 2, 
             "value": "speedanalytics.speedspot.org", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 3, 
             "value": "c25k.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 4, 
             "value": "speedspot.speedspot.org", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 5, 
             "value": "c10kforpink.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 6, 
             "value": "production.sgiggle.com", 

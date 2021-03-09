@@ -1,84 +1,84 @@
 {
     "iocs": [
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 0, 
             "value": "androidfuel.vernazza.org", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 1, 
             "value": "bustracker.appeffectsuk.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 2, 
             "value": "citygoo.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 3, 
             "value": "android.checkbonus.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 4, 
             "value": "android.mobile.fantaclub.it", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 5, 
             "value": "fidme.snapp.fr", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 6, 
             "value": "footbottomus.nicola.it", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 7, 
             "value": "dietagrupposanguignoandroid.betterdays.it", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 8, 
             "value": "tudocampo.nicola.it", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 9, 
             "value": "gzricette.media.banzai.it", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 10, 
             "value": "nonprofootball.nicola.it", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 11, 
             "value": "calcioveneto.nicola.it", 

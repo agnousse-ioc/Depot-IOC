@@ -1,350 +1,350 @@
 {
     "iocs": [
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 0, 
             "value": "speedometergps.luo", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 1, 
             "value": "speedviewgps.luo", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 2, 
             "value": "swagbucksmobile.prodege.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 3, 
             "value": "forumswpcentralcom.tapatalk.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 4, 
             "value": "inboxdollars.android.mentormate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 5, 
             "value": "myclockfree.apalon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 6, 
             "value": "level.androgames.net", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 7, 
             "value": "speedspot.speedspot.org", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 8, 
             "value": "c10kforpink.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 9, 
             "value": "NOAA_Now.kellytechnology.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 10, 
             "value": "myearthquakealerts.jrustonapps.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 11, 
             "value": "greatlakesfishermancomforums.tapatalk.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 12, 
             "value": "newleaf.jrustonapps.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 13, 
             "value": "outofmilk.capigami.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 14, 
             "value": "activity.tapatalkcrackbreey.quoord.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 15, 
             "value": "niksgps.coolniks.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 16, 
             "value": "lakeerieunitedcomwalleye.tapatalk.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 17, 
             "value": "answer.prodege.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 18, 
             "value": "activity.tapatalkacf.quoord.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 19, 
             "value": "wheresmyandroid.alienmanfc6.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 20, 
             "value": "phonandroidcomforum.tapatalk.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 21, 
             "value": "lakeontariounitedcomfishinghunting.tapatalk.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 22, 
             "value": "speedspotspeedtest.speedspot.org", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 23, 
             "value": "c25k.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 24, 
             "value": "forumsbowhuntingcom.tapatalk.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 25, 
             "value": "triplog.bizlog.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 26, 
             "value": "vvm.android.youmail.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 27, 
             "value": "mymoonphase.jrustonapps.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 28, 
             "value": "gweather.satok.org", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 29, 
             "value": "surveys.sotg.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 30, 
             "value": "myauroraforecast.jrustonapps.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 31, 
             "value": "activity.tapatalkpro.quoord.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 32, 
             "value": "free.weatherradar.apalon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 33, 
             "value": "free.speedview.codesector.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 34, 
             "value": "ScanLife.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 35, 
             "value": "mylightningtracker.jrustonapps.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 36, 
             "value": "quickthoughts.mobile.surveysampling.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 37, 
             "value": "forumsimorecom.tapatalk.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 38, 
             "value": "couponsherpa.kinoli.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 39, 
             "value": "activity.tapatalkeo.quoord.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 40, 
             "value": "coupon.thecouponsapp", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 41, 
             "value": "speedanalytics.speedspot.org", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 42, 
             "value": "shopsavvy.biggu.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 43, 
             "value": "niksgps2.coolniks.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 44, 
             "value": "gpsspeed.luo", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 45, 
             "value": "mytidetimes.jrustonapps.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 46, 
             "value": "free.weatherlive.apalon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 47, 
             "value": "perfect365.arcsoft.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 48, 
             "value": "lightflowlite.android.rageconsulting.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 49, 
             "value": "digitaldashboardgps.luo", 

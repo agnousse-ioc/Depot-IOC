@@ -1,1379 +1,1379 @@
 {
     "iocs": [
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 0, 
             "value": "playbarcelona.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 1, 
             "value": "UnitedArabEmiratesCupid.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 2, 
             "value": "weatherkitty.weathercreative.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 3, 
             "value": "hijricalendar.prayertime.qiblafinder.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 4, 
             "value": "meetmarket.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 5, 
             "value": "SwissCupid.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 6, 
             "value": "doodledevil_free.joybits.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 7, 
             "value": "playnewyorkofflinemap.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 8, 
             "value": "NOAA_Now.kellytechnology.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 9, 
             "value": "readquran.quranmp3.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 10, 
             "value": "android.fb.sms.ig.theme.darkmode", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 11, 
             "value": "flightherofree.ik.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 12, 
             "value": "muslimmingle.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 13, 
             "value": "DutchCupid.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 14, 
             "value": "EuropianMingle.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 15, 
             "value": "c25k.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 16, 
             "value": "co.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 17, 
             "value": "craigslist.yanflex.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 18, 
             "value": "plugin.peel.remotecontroller.phone.duokan.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 19, 
             "value": "ColombianSocial.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 20, 
             "value": "playprague.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 21, 
             "value": "gps.karta.kartatech.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 22, 
             "value": "playveniceofflinemap.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 23, 
             "value": "ephemeris.avianey.fr", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 24, 
             "value": "qiblafinder.prayertimes.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 25, 
             "value": "portugal.online.radio", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 26, 
             "value": "itunerfree.appgeneration.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 27, 
             "value": "absen.p4p.net", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 28, 
             "value": "StarTrackerVR.PYOPYO.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 29, 
             "value": "camstream.mobzapp.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 30, 
             "value": "flashlight.gamepoint.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 31, 
             "value": "BrazilSocial.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 32, 
             "value": "SeniorPeopleMingle.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 33, 
             "value": "BBWPlusSingles.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 34, 
             "value": "wapa.wapoapp.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 35, 
             "value": "playmunich.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 36, 
             "value": "butt30day.p4p.net", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 37, 
             "value": "trial.screenstream.mobzapp.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 38, 
             "value": "playlondon.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 39, 
             "value": "playamsterdam.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 40, 
             "value": "readquran.quranmp3ramadan.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 41, 
             "value": "FranceCupid.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 42, 
             "value": "doodlegod_hd_free2.joybits", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 43, 
             "value": "free.chat.call.video.messenger", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 44, 
             "value": "muslimpro.android.bitsmedia.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 45, 
             "value": "asianmingle.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 46, 
             "value": "android.mandicmagic.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 47, 
             "value": "androidtmndrive.ndrive.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 48, 
             "value": "vocalcalc.audiosdroid.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 49, 
             "value": "automate.bitspice.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 50, 
             "value": "c13_1forpink2.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 51, 
             "value": "ItalianCupid.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 52, 
             "value": "wiseplay.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 53, 
             "value": "datecalc.audiosdroid.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 54, 
             "value": "HongKongSocial.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 55, 
             "value": "fb.sms.ig.theme.nightmode", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 56, 
             "value": "citymaps2go.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 57, 
             "value": "sg.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 58, 
             "value": "it.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 59, 
             "value": "weather.difer.net", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 60, 
             "value": "mingle.android.mingle", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 61, 
             "value": "br.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 62, 
             "value": "screencast.mobzapp.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 63, 
             "value": "za.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 64, 
             "value": "ng.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 65, 
             "value": "AussieMingle.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 66, 
             "value": "mnecraf.stickers.photo.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 67, 
             "value": "android.mocospace.jnj.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 68, 
             "value": "mediaconverter.app.fundevs.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 69, 
             "value": "weawow.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 70, 
             "value": "pl.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 71, 
             "value": "VietSocial.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 72, 
             "value": "ireland.player.radio", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 73, 
             "value": "barcodeapp.qrscanner.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 74, 
             "value": "perfect365.arcsoft.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 75, 
             "value": "musicplayer.audiosdroid.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 76, 
             "value": "qiblacompass.prayertimes.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 77, 
             "value": "playhamburgofflinemap.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 78, 
             "value": "StarTracker.PYOPYO.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 79, 
             "value": "playbeijing.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 80, 
             "value": "batterycalibration.nema.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 81, 
             "value": "app.mobile.peel.tv", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 82, 
             "value": "craigslist.classifieds.simple", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 83, 
             "value": "appsourcehub.qibla.prayertimes.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 84, 
             "value": "in.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 85, 
             "value": "forshared.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 86, 
             "value": "EgyptCupid.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 87, 
             "value": "arabic.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 88, 
             "value": "tr.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 89, 
             "value": "MexicoSocial.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 90, 
             "value": "shopsavvy.biggu.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 91, 
             "value": "ThaiSocial.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 92, 
             "value": "au.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 93, 
             "value": "audiostudio.audiosdroid.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 94, 
             "value": "mingle2.android.mingle", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 95, 
             "value": "free.recme.mobzapp.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 96, 
             "value": "voicefx.mobzapp.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 97, 
             "value": "playshanghai.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 98, 
             "value": "drink_o_tron.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 99, 
             "value": "TurkishCupid.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 100, 
             "value": "portableorg.audiosdroid.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 101, 
             "value": "level.androgames.net", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 102, 
             "value": "IndonesiaSocial.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 103, 
             "value": "weatherpuppy.weathercreative.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 104, 
             "value": "es.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 105, 
             "value": "ca.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 106, 
             "value": "wapoapp.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 107, 
             "value": "jorte.johospace.co.jp", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 108, 
             "value": "wififinder.speedspot.org", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 109, 
             "value": "fem.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 110, 
             "value": "speedometer.gps.guruinfomedia.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 111, 
             "value": "nyc.onezoneapps.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 112, 
             "value": "UKCupid.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 113, 
             "value": "prayertimes.compass.qibla.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 114, 
             "value": "GermanCupid.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 115, 
             "value": "compass.avianey.fr", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 116, 
             "value": "qrmaker.scanner.qrcode", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 117, 
             "value": "arrangerkeyboard.audiosdroid.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 118, 
             "value": "soundfontpiano.audiosdroid.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 119, 
             "value": "SingaporeSocial.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 120, 
             "value": "files.forshared.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 121, 
             "value": "playmadrid.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 122, 
             "value": "be.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 123, 
             "value": "pro.whattheforecast.williamking.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 124, 
             "value": "notes.skstudios.net", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 125, 
             "value": "c26_2forpink.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 126, 
             "value": "KoreaSocial.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 127, 
             "value": "SpainCupid.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 128, 
             "value": "NorwayCupid.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 129, 
             "value": "playparis.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 130, 
             "value": "nl.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 131, 
             "value": "lgtv.peel.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 132, 
             "value": "egypt.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 133, 
             "value": "smartremote.peel.tv", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 134, 
             "value": "playvenice.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 135, 
             "value": "messenger.social.chat.messenger", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 136, 
             "value": "kr.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 137, 
             "value": "niksgps2.coolniks.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 138, 
             "value": "playberlin.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 139, 
             "value": "doodlemafia_free.joybits", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 140, 
             "value": "tw.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 141, 
             "value": "BlackPeopleMingle.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 142, 
             "value": "IranCupid.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 143, 
             "value": "android.instabridge.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 144, 
             "value": "jp.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 145, 
             "value": "powervocab.applimobile.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 146, 
             "value": "ch.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 147, 
             "value": "backseatnavigator.nightcatproductions.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 148, 
             "value": "remote.peel.tv", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 149, 
             "value": "speedanalytics.speedspot.org", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 150, 
             "value": "wifimap.wifimap.io", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 151, 
             "value": "ChinaSocial.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 152, 
             "value": "cn.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 153, 
             "value": "SouthAfricaSocial.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 154, 
             "value": "speedspot.speedspot.org", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 155, 
             "value": "c10kforpink.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 156, 
             "value": "dateinasia.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 157, 
             "value": "playmilan.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 158, 
             "value": "te.accupedo.corusen.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 159, 
             "value": "PortugalCupid.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 160, 
             "value": "FilipinoSocial.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 161, 
             "value": "LatinMingle.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 162, 
             "value": "wheresmyandroid.alienmanfc6.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 163, 
             "value": "wildlifeweather.weathercreative.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 164, 
             "value": "speedspotspeedtest.speedspot.org", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 165, 
             "value": "visualizer.xmode.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 166, 
             "value": "playpragueofflinemap.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 167, 
             "value": "de.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 168, 
             "value": "playromeofflinemap.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 169, 
             "value": "online.fm.radio", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 170, 
             "value": "RussianSocial.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 171, 
             "value": "DragRacing.creativemobile.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 172, 
             "value": "at.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 173, 
             "value": "app.sickweather.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 174, 
             "value": "bmi.squidworm.net", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 175, 
             "value": "whattheforecast.williamking.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 176, 
             "value": "niksgps.coolniks.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 177, 
             "value": "SingleParentsMingle.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 178, 
             "value": "ChileanCupid.mingle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 179, 
             "value": "mp3converter.videocutter.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 180, 
             "value": "cittabus.com.br", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 181, 
             "value": "ua.radios.appmind.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 182, 
             "value": "JapanSocial.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 183, 
             "value": "speech2text.audiosdroid.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 184, 
             "value": "fivemiles.thirdrock.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 185, 
             "value": "playrome.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 186, 
             "value": "panasonictv.peel.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 187, 
             "value": "lite.messenger.social.chat.messenger", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 188, 
             "value": "offline.lum.onezoneapps.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 189, 
             "value": "paritymobile.superherobooth.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 190, 
             "value": "aplus.corusen.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 191, 
             "value": "UkraineSocial.innovate.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 192, 
             "value": "playbarcelonaofflinemap.android.ulmon.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 193, 
             "value": "app.peel.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 194, 
             "value": "compass.androgames.net", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 195, 
             "value": "production.sgiggle.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 196, 
             "value": "altimeter.avianey.fr", 

@@ -1,49 +1,49 @@
 {
     "iocs": [
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 0, 
             "value": "bor3.aponia.cz", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 1, 
             "value": "incar.sygic.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 2, 
             "value": "main.skypicker.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 3, 
             "value": "maps.offline.offlinegps.offlinenavigation.direction.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 4, 
             "value": "aura.sygic.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 5, 
             "value": "gps.offlinemaps.navigation.com", 
             "tlp": "white"
         }, 
         {
-            "tag": "Tracker", 
+            "tag": "tracker", 
             "type": "domain", 
             "id": 6, 
             "value": "directions.route.maps.navigation.gps.com", 
